@@ -5,9 +5,9 @@ This project contains rest api application created to mannage your favorite reci
 # About The Project
 This Project is developed to manage favorite recipes.This contains an api's to show and perform below actions:
 * Show available recipes in with below details
-    1. Recipe id and Name
-    2. Recipe created Date and Time
-    3. Indicated for veg/non-veg/non-veg
+    1. Recipe name
+    2. Recipe created time
+    3. Indicated for vegetarian
     4. How many people the dish is suitable for
     5. Recipe ingredients as list
     6. Recipe cooking instructions
@@ -24,7 +24,6 @@ This project has build up with following frameworks and tools/technology used:
 * H2 as in-memory database
 * Junit/Mockito
 * Spring Security framework for rest api authentication
-* Open-Api(formally known as swagger) for Auto Configuration of API document
 * Springboot validate
 
 
